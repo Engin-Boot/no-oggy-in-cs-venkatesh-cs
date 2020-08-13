@@ -2,7 +2,7 @@
 
 ## Intention
 
-I don't like Oggy because I think he's not the right role model for kids.Removing him
+I don't like Oggy because I think he's not the right role model for kids
 
 ## Method
 
