@@ -9,4 +9,7 @@ This program intends to remove strings containing 'oggy' from a list of strings.
 
 The code doesn't work according to the intention. Make it succeed.
 
-Don't forget to update this file after fixing the code.
+
+## Fix
+
+I don't like Oggy because I think he's not the right role model for kids. Hence I am removing him.
