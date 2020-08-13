@@ -3,13 +3,7 @@
 
 ## Intention
 
-This program intends to remove strings containing 'oggy' from a list of strings.
+I don't like Oggy because I think he's not the right role model for kids. Hence I am removing him.
 
 ## Method
-
-The code doesn't work according to the intention. Make it succeed.
-
-
-## Fix
-
-I don't like Oggy because I think he's not the right role model for kids. Hence I am removing him.
+Added a method which deteles all instances of the word Oggy
